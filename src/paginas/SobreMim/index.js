@@ -31,7 +31,7 @@ export default function SobreMim() {
                 Com isso tive minha experiência de dev mais próxima da realidade, com desenvolvimentos de projetos freelance.
             </p>
             <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. 
+                Desde então, tem sido apenas aprendizado e crescimento. 
             </p>
         </PostModelo>
     )
